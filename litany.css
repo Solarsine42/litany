@@ -2,7 +2,7 @@ html{
   font-family: 'Shadows Into Light', cursive;
 }
 body{
-  background: url(https://cdn.pixabay.com/photo/2016/02/23/10/55/paper-1217311_960_720.jpg)
+  background: url(bg1.jpg)
 }
 h1 {
   font-size: 40px;
@@ -14,7 +14,7 @@ p{
   margin-right:5%;
 }
 table{
-  background: url(https://www.maxpixel.net/static/photo/1x/Background-Combs-Parchment-Texture-Bees-Paper-3086681.jpg);
+  background: url(bg2.jpg);
   margin-left:auto;
   margin-right:auto;
   border-collapse: collapse;
